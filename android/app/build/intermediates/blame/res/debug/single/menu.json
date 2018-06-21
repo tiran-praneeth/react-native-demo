@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tiran/workspace/sandbox/react-native/demo/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/tiran/workspace/sandbox/react-native/demo/android/app/build/intermediates/exploded-aar/demo/react-native-navigation/unspecified/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/Users/tiran/workspace/sandbox/react-native/demo/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/tiran/workspace/sandbox/react-native/demo/android/app/build/intermediates/exploded-aar/demo/react-native-navigation/unspecified/res/menu/stub.xml"
+    }
+]
